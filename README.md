@@ -2,7 +2,7 @@
 #? Memories
 [root@localhost]:$./start.sh
 [...]
-[Start : 3022]
+[Start : Unknow]
 [Capsule : SIGNATURE]
 [JESUS SAVE]
 [DEADLINE : Unknow]
